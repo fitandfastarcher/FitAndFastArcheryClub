@@ -1,0 +1,102 @@
+{
+  "posts": [
+    {
+      "slug": "archery-discipline-focus-sunnah",
+      "date": "June 15, 2026",
+      "dateISO": "2026-06-15",
+      "author": "Fit & Fast Archery Club",
+      "title": "Archery – Discipline, Focus & Sunnah Inspired Sport",
+      "summary": "Discover how archery builds discipline and focus, drawing inspiration from Islamic tradition and the Sunnah of the Prophet (peace be upon him).",
+      "image": "🏹",
+      "imageUrl": "",
+      "body": [
+        {
+          "type": "p",
+          "text": "Archery is one of the oldest and most respected sports in human history. Long before modern competitions and Olympic medals, archery was practiced as a skill of survival, warfare, and sport — deeply rooted in cultures across the world, including the rich Islamic tradition."
+        },
+        {
+          "type": "h2",
+          "text": "A Sport Honored in the Sunnah"
+        },
+        {
+          "type": "p",
+          "text": "In Islam, archery holds a special place. The Prophet Muhammad (peace be upon him) encouraged his companions to practice archery, recognizing it as a skill that builds strength, focus, and discipline. He famously said: <em>\"Practice archery, for it is one of your sports.\"</em> This encouragement reflects the value placed on physical activity that also nurtures the mind and spirit."
+        },
+        {
+          "type": "p",
+          "text": "Archery in the Sunnah was not merely about hitting a target — it was about developing patience, precision, and perseverance. These are the same qualities that Fit & Fast Archery Club seeks to instill in every student who walks through our doors."
+        },
+        {
+          "type": "h2",
+          "text": "Discipline: The Foundation of Every Archer"
+        },
+        {
+          "type": "p",
+          "text": "Every arrow released from a bow is the result of disciplined practice. From your stance to your grip, from drawing the string to releasing — each movement must be deliberate and controlled. There are no shortcuts in archery. Progress comes through consistent effort, session after session."
+        },
+        {
+          "type": "p",
+          "text": "This discipline extends far beyond the archery range. Students who train regularly often find that the focus and self-control they develop in archery positively impacts their studies, work, and personal relationships."
+        },
+        {
+          "type": "h2",
+          "text": "Focus: The Archer's Greatest Weapon"
+        },
+        {
+          "type": "p",
+          "text": "In archery, distraction is the enemy. A wandering mind leads to a wandering arrow. The sport demands that you be fully present — aware of your body, your breath, and your target. This state of focused awareness is remarkably similar to the mindfulness encouraged in Islamic practice."
+        },
+        {
+          "type": "p",
+          "text": "When you draw your bow and aim, the world around you fades away. It is just you, the bow, and the target. This singular focus is one of archery's most powerful gifts — teaching you to channel your energy toward a clear goal."
+        },
+        {
+          "type": "h2",
+          "text": "Self-Improvement: A Continuous Journey"
+        },
+        {
+          "type": "p",
+          "text": "At Fit & Fast Archery Club, our motto — <strong>\"Speed, precision, and continuous improvement\"</strong> — captures the essence of what archery teaches. No archer ever reaches perfection. There is always room to refine your technique, strengthen your form, and sharpen your aim."
+        },
+        {
+          "type": "p",
+          "text": "This mindset of continuous improvement aligns beautifully with the Islamic principle of striving for excellence (ihsan) in everything we do. Whether you are a beginner picking up a bow for the first time or an experienced archer refining your competitive edge, every session is an opportunity to become better than you were yesterday."
+        },
+        {
+          "type": "h2",
+          "text": "Join the Journey"
+        },
+        {
+          "type": "p",
+          "text": "Archery is more than a sport — it is a path to personal growth, spiritual reflection, and community. At Fit & Fast Archery Club in Karachi, we welcome archers of all ages and skill levels to experience the transformative power of this ancient art."
+        },
+        {
+          "type": "p",
+          "text": "Whether you are drawn to archery for its physical benefits, its mental challenges, or its connection to a noble tradition, we invite you to take the first step. Register for training and discover what it means to aim fast and shoot true."
+        }
+      ]
+    },
+    {
+      "slug": "",
+      "date": "June 10, 2026",
+      "dateISO": "2026-06-10",
+      "title": "5 Tips for Beginner Archers",
+      "summary": "Starting your archery journey? Here are five essential tips to help you build a strong foundation and enjoy every session.",
+      "image": "🎯",
+      "imageUrl": "",
+      "linkUrl": "registration.html",
+      "linkLabel": "Join Training"
+    },
+    {
+      "slug": "",
+      "date": "June 5, 2026",
+      "dateISO": "2026-06-05",
+      "title": "Why Archery is the Perfect Sport for Focus",
+      "summary": "In a world full of distractions, archery teaches you to slow down, breathe, and aim with purpose. Learn why focus is archery's greatest gift.",
+      "image": "💪",
+      "imageUrl": "",
+      "linkUrl": "training.html",
+      "linkLabel": "View Training"
+    }
+  ]
+}
