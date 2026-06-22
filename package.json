@@ -1,0 +1,27 @@
+{
+  "name": "fitandfastarcheryclub-1",
+  "version": "1.0.0",
+  "description": "🏹 Modern multi-page responsive website for FIT &amp; FAST Archery Club in Karachi, built to promote professional archery training, student registration, and events with a fast, sports-focused design.",
+  "main": "config.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "node scripts/generate-blog.js && node scripts/generate-gallery.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fitandfastarcher/FitAndFastArcheryClub.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/fitandfastarcher/FitAndFastArcheryClub/issues"
+  },
+  "homepage": "https://github.com/fitandfastarcher/FitAndFastArcheryClub#readme",
+  "dependencies": {
+    "fs-extra": "^11.3.5",
+    "gray-matter": "^4.0.3"
+  }
+}
+
