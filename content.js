@@ -18,7 +18,7 @@ function escapeHtml(text = "") {
 
 async function loadGallery() {
   console.log("loadGallery running");
-  
+
   const grid = document.getElementById("gallery-grid");
   if (!grid) return;
 
@@ -126,4 +126,10 @@ async function loadBlogArticle() {
     console.error(err);
     container.innerHTML = "<p>Article failed to load.</p>";
   }
+}
+
+document.addEventListener("DOMContentLoaded", () => {
+  loadGallery();
+  loadBlogList();
+  loadBlogArticle();
 }
