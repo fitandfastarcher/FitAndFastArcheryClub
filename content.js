@@ -17,6 +17,8 @@ function escapeHtml(text = "") {
 }
 
 async function loadGallery() {
+  console.log("loadGallery running");
+  
   const grid = document.getElementById("gallery-grid");
   if (!grid) return;
 
