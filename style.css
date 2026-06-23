@@ -276,16 +276,37 @@ ul {
 }
 
 .hero-visual {
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  padding: 2rem 0;
+    position: relative;
+    overflow: hidden;
+    border-radius: 24px;
 }
 
-.hero-visual dotlottie-wc {
-  width: min(420px, 100%);
-  height: min(420px, 70vw);
-  filter: drop-shadow(0 12px 40px rgba(0, 0, 0, 0.25));
+.hero-visual img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+
+    -webkit-mask-image:
+        linear-gradient(
+            to right,
+            transparent,
+            black 25%,
+            black
+        );
+}
+
+.hero-visual::after {
+    content: "";
+    position: absolute;
+    inset: 0;
+
+    background:
+        linear-gradient(
+            to right,
+            rgba(15,23,42,.95),
+            rgba(15,23,42,.35),
+            transparent
+        );
 }
 
 .hero::before {
